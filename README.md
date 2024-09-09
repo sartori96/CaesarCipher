@@ -14,7 +14,6 @@ Enter the following commands
 ```shell
 $ python -m venv /path/to/new/virtual/environment
 $ source <venv>/<bin or Scripts>/activate
-$ pip install -r requirements.txt
 ```
 
 How to use
